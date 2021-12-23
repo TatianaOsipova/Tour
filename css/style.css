@@ -1,3 +1,16 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 15px;
+    
+}
+
 .header{
     background-image: url(/images/header-bg.jpg);
     height: 100vh;
@@ -5,3 +18,4 @@
     background-size: cover;
     background-position: bottom center;
 }
+
