@@ -103,6 +103,27 @@ body{
     left: 0;
 }
 
+.header__title{
+    padding-top: 152px;
+    text-align: center;
+    font-size: 250px;
+    line-height: 334px;
+    font-family: 'balqis';
+    font-weight: 300;
+}
+
+.header__title span{
+    display: block;
+    text-align: right;
+    line-height: 66px;
+    font-size: 56px;
+    font-family: 'RobotoCondensed-LightItalic';
+    margin-top: -66px;
+    margin-right: 85px;
+
+
+}
+
 
 
 
