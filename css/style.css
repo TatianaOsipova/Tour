@@ -3,12 +3,20 @@
 *::before{
     box-sizing: border-box;
 }
+a{
+    color: inherit;
+}
+
+body{
+    color: black;
+}
 
 .container{
     max-width: 1230px;
     margin: 0 auto;
     padding: 0 15px;
     
+
 }
 
 .header{
@@ -18,4 +26,22 @@
     background-size: cover;
     background-position: bottom center;
 }
+
+.header__top{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 72px;
+}
+ .menu__list-item{
+    display: inline-block;
+}
+
+.menu__list-item + .menu__list-item{
+    margin-left: 52px;
+}
+
+
+
+
+
 
