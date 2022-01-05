@@ -40,7 +40,7 @@
     font-display: swap;
 }
 
-ul{
+ul {
     list-style: none;
 }
 
@@ -176,7 +176,7 @@ body {
     position: relative;
 }
 
-.fairy-tail__container{
+.fairy-tail__container {
     max-width: 1230px;
     padding: 0 15px;
     margin: 0 auto;
@@ -188,7 +188,7 @@ body {
 
 }
 
-.fairy-tail__body{
+.fairy-tail__body {
     width: 50%;
     margin-left: auto;
     padding-left: 55px;
@@ -198,6 +198,6 @@ body {
     height: 100%;
 }
 
-.fairy-tail__body-title{
-font-family: 'RobotoCondensed-Regular';
+.fairy-tail__body-title {
+    font-family: 'RobotoCondensed-Regular';
 }
