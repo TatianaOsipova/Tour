@@ -63,7 +63,8 @@ body {
 }
 
 .page-section {
-    margin: 200px 0;
+    margin: 200px auto;
+    max-width: 1920px;
 }
 
 .title {
@@ -152,9 +153,9 @@ body {
 .fairy-tail__slider {
     width: 50%;
 }
-.fairy-tail__item img{
+/* .fairy-tail__item img{
     width: 100%;
-}
+} */
 
 .slick-btn {
     position: absolute;
