@@ -239,6 +239,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: start;
     height: 100%;
 }
 
@@ -261,6 +262,12 @@ body {
     padding: 11px 53px;
 
 }
+
+.our-trip__content{
+    width: 50%;
+    padding-right: 55px;
+}
+
 
 
 
