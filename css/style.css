@@ -150,6 +150,7 @@ body {
 .fairy-tail__slider {
     width: 50%;
 }
+
 /* .fairy-tail__item img{
     width: 100%;
 } */
@@ -203,24 +204,24 @@ body {
     font-family: 'RobotoCondensed-Regular';
 }
 
-.fairy-tail__text{
+.fairy-tail__text {
     padding: 10px 0;
 }
 
-.fairy-tail__title span{
+.fairy-tail__title span {
     margin-left: 185px;
 }
 
-.our-trip__slider{
+.our-trip__slider {
     width: 50%;
     margin-left: auto;
 }
 
-.our-trip__inner{
+.our-trip__inner {
     position: relative;
 }
 
-.our-trip__container{
+.our-trip__container {
     max-width: 1230px;
     margin: 0 auto;
     position: absolute;
@@ -230,12 +231,21 @@ body {
     bottom: 0;
 }
 
-.our-trip__title span{
+.our-trip__title span {
     margin-left: 240px;
 }
 
+.our-trip__body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
-
+.our-trip__list{
+    margin: 5px 0;
+    font-size: 24px;
+    line-height: 28px;
+}
 
 
 
