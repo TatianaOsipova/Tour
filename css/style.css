@@ -83,9 +83,6 @@ body {
     font-family: 'RobotoCondensed-LightItalic';
     display: block;
     margin-top: -30px;
-    margin-left: 185px;
-
-
 }
 
 .header {
@@ -210,6 +207,10 @@ body {
     padding: 10px 0;
 }
 
+.fairy-tail__title span{
+    margin-left: 185px;
+}
+
 .our-trip__slider{
     width: 50%;
     margin-left: auto;
@@ -220,7 +221,7 @@ body {
 }
 
 .our-trip__container{
-    max-width: 1230;
+    max-width: 1230px;
     margin: 0 auto;
     position: absolute;
     left: 0;
@@ -228,6 +229,11 @@ body {
     right: 0;
     bottom: 0;
 }
+
+.our-trip__title span{
+    margin-left: 240px;
+}
+
 
 
 
