@@ -267,6 +267,23 @@ body {
     padding-right: 55px;
 }
 
+.our__title span{
+    margin-left: 120px;
+}
+
+.hotel__inner{
+    display: flex;
+}
+
+.hotel__images{
+    margin-right: 100px;
+}
+
+.hotel__text{
+    margin-bottom: 20px;
+}
+
+
 
 
 
