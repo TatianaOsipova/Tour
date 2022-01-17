@@ -308,7 +308,21 @@ body {
 
 .price__on{
     margin-right: 70px;
+    width: 530px;
 }
+
+.price__list-item{
+    margin-bottom: 20px;
+}
+
+.price{
+    background-image: url(/images/price-bng.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+
+
 
 
 
