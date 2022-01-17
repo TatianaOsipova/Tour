@@ -407,6 +407,15 @@ body {
     cursor: pointer;
 }
 
+.footer{
+    background-image: url(../images/footer-bg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding-top: 96px;
+
+}
+
 
 
 
