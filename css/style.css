@@ -432,7 +432,51 @@ body {
     height: 527px;
     background-image: url(../images/footer-contact-bg.png);
     background-repeat: no-repeat;
+    text-align: center;
 }
+
+.footer__contacts-title{
+    font-size: 86px;
+    line-height: 115px;
+    font-family: 'balqis';
+    color: #E2AB3F;
+    margin-bottom: 50px;
+}
+
+.footer__phone,
+.footer__email{
+    display: inline-block;
+    padding-left: 40px;
+    position: relative;
+
+}
+
+.footer__phone::before,
+.footer__email::before{
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 0;
+    top: -5px;
+}
+
+.footer__phone::before{
+    background-image: url(../images/footer-phone.svg);
+}
+
+.footer__email::before{
+    background-image: url(../images/footer-mail.svg);
+}
+
+.footer__phone{
+    margin-bottom: 20px;
+}
+
+
+
+
+
 
 
 
