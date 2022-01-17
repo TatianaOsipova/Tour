@@ -433,9 +433,11 @@ body {
     background-image: url(../images/footer-contact-bg.png);
     background-repeat: no-repeat;
     text-align: center;
+
 }
 
 .footer__contacts-title{
+    padding-top: 50px;
     font-size: 86px;
     line-height: 115px;
     font-family: 'balqis';
@@ -471,6 +473,14 @@ body {
 
 .footer__phone{
     margin-bottom: 20px;
+}
+
+.footer__social{
+    margin-top: 38px;
+}
+
+.footer__social a{
+    margin: 0 7px;
 }
 
 
