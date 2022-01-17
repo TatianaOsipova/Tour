@@ -413,8 +413,30 @@ body {
     background-repeat: no-repeat;
     background-position: bottom center;
     padding-top: 96px;
-
 }
+
+.footer__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__text{
+    font-size: 86px;
+    line-height: 115px;
+    font-family: 'balqis';
+}
+
+.footer__contacts{
+    width: 356px;
+    height: 527px;
+    background-image: url(../images/footer-contact-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
 
 
 
