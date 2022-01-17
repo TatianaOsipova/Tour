@@ -332,7 +332,11 @@ body {
 
 .contacts__content{
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
+
 
 .contacts__date,
 .contacts__price{
@@ -371,7 +375,7 @@ body {
     font-size: 24px;
     line-height: 28px;
     margin-bottom: 50px;
-    font-family: 'RobotoCondensed-Light';
+    font-family: 'RobotoCondensed-Regular';
 }
 
 .contacts__form-input{
@@ -399,7 +403,7 @@ body {
     text-transform: uppercase;
     border: 1px solid #E2AB3F;
     background-color: transparent;
-    padding: 11p 45px;
+    padding: 11px 45px;
     cursor: pointer;
 }
 
