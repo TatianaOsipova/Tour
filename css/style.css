@@ -347,16 +347,69 @@ body {
     margin-left: 120px;
 }
 
+.contacts__date{
+    margin-bottom: 20px;
+}
+
 .contacts__date span,
 .contacts__price span{
     display: block;
     line-height: 28px;
     font-size: 24px;
     color: #000;
-    font-family: 'RobotoCondensed-Light';
     margin-top: -10px;
     margin-left: 205px;
+    font-family: 'RobotoCondensed-LightItalic';
 }
+
+.contacts__form{
+    max-width: 383px;
+    margin: 0 auto;
+}
+
+.contacts__form-title{
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 50px;
+    font-family: 'RobotoCondensed-Light';
+}
+
+.contacts__form-input{
+    border: 1px solid #E2AB3F;
+    display: block;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+    padding: 0 31px;
+    line-height: 21px;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'RobotoCondensed-Light';
+
+}
+
+.contacts__form-input::placeholder{
+    color: #000;
+}
+
+.contacts__form-btn{
+    font-family: 'RobotoCondensed-Light';
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    border: 1px solid #E2AB3F;
+    background-color: transparent;
+    padding: 11p 45px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
 
 
 
