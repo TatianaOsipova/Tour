@@ -569,6 +569,13 @@ body {
     .fairy-tail__title span {
         margin-left: 110px;
     }
+    .our-trip__slider-item{
+        height: 50vh;
+        width: 100%;
+        object-fit: cover;
+    }
+
+
 
 
 }
