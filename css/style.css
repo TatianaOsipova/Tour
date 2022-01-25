@@ -484,7 +484,7 @@ body {
     margin: 0 7px;
 }
 
-
+/* media start */
 @media (max-width: 1240px) {
     .header__title {
         padding-top: 120px;
@@ -593,9 +593,7 @@ body {
     .our-trip__title span{
         margin-left: 150px;
     }
-
-
-    .our-trip__slider {
+   .our-trip__slider {
         width: 100%;
         height: 50vh;
         object-fit: cover;
@@ -630,3 +628,4 @@ body {
     }
 
 }
+/* media finish */
