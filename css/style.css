@@ -187,7 +187,6 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-
 }
 
 .fairy-tail__body {
@@ -233,6 +232,7 @@ body {
 
 .our-trip__title span {
     margin-left: 240px;
+    transform: translateY(50%);
 }
 
 .our-trip__body {
@@ -389,7 +389,6 @@ body {
     font-size: 18px;
     font-weight: 300;
     font-family: 'RobotoCondensed-Light';
-
 }
 
 .contacts__form-input::placeholder {
@@ -434,7 +433,6 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     background-size: cover;
-
 }
 
 .footer__contacts-title {
@@ -451,7 +449,6 @@ body {
     display: inline-block;
     padding-left: 40px;
     position: relative;
-
 }
 
 .footer__phone::before,
@@ -628,4 +625,5 @@ body {
     }
 
 }
+
 /* media finish */
