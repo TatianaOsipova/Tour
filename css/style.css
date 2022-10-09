@@ -337,7 +337,6 @@ body {
     justify-content: space-around;
 }
 
-
 .contacts__date,
 .contacts__price {
     font-family: 'balqis';
@@ -623,7 +622,6 @@ body {
     .fairy-tail__title span {
         margin-left: 90px;
     }
-
 }
 
 /* media finish */
