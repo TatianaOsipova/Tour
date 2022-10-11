@@ -423,6 +423,8 @@ body {
 
 /* price end */
 
+/* footer start */
+
 .footer {
     background-image: url(../images/footer-bg.jpg);
     height: 100vh;
@@ -498,7 +500,10 @@ body {
     margin: 0 7px;
 }
 
+/* footer end */
+
 /* media start */
+
 @media (max-width: 1240px) {
     .header__title {
         padding-top: 120px;
@@ -643,3 +648,5 @@ body {
 }
 
 /* media finish */
+
+
