@@ -85,6 +85,8 @@ body {
     margin-top: -30px;
 }
 
+/* header start */
+
 .header {
     background-image: url(../images/header-bg.jpg);
     height: 100vh;
@@ -147,6 +149,10 @@ body {
     margin-right: 85px;
 }
 
+/* header end */
+
+/* fairy-tail start */
+
 .fairy-tail__slider {
     width: 50%;
 }
@@ -206,6 +212,8 @@ body {
 .fairy-tail__title span {
     margin-left: 185px;
 }
+
+/* fairy-tail end */
 
 .our-trip__slider {
     width: 50%;
